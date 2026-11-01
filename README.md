@@ -1,12 +1,12 @@
 # **MythareNoTopMost**
 > 让极域取消置顶
 
-建议使用：[极域工具箱]([url](https://github.com/BengbuGuards/MythwareToolkit))
+建议使用：极域工具箱 url：https://github.com/BengbuGuards/MythwareToolkit
 因为它似乎没有让窗口化的广播取消置顶，所以出现了本程序。
 
 
 1. 因为时间紧凑，这个程序很多是AI完成的（看注释）
-2. 你需要MinHook才能编译：[minhook的github项目]([url](https://github.com/TsudaKageyu/minhook))
+2. 你需要MinHook才能编译：minhook的github项目 url：https://github.com/TsudaKageyu/minhook
 3. 将“StudentMain.exe”改为其它或使用命令行参数可以将DLL注入到其它程序，实现更多效果。
 4. cpp文件中是“hook_x86.dll”,要想编译x64尝试换成“hook_x64.dll”（除非你乐意出现名称带x64的x86 Dll文件）
 
